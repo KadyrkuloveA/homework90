@@ -1,0 +1,11 @@
+body {
+  background: #5CDB95;
+}
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.headline {
+  text-align: center;
+  color: #06386B;
+}
